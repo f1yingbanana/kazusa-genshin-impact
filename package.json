@@ -5,6 +5,10 @@
   "description": "Teyvat, on the day a stranger wakes at Starfell Lake. 126 characters across eight lands, with Katheryne as your system admin.",
   "author": "breados17",
   "homepage": "https://openrp.ai/kazusa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f1yingbanana/kazusa-genshin-impact.git"
+  },
   "private": true,
   "kazusa": {
     "systemAgent": "katheryne",
